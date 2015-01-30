@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Number</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+		<integer>5</integer>
+		<integer>6</integer>
+        <integer>7</integer>
+		<integer>8</integer>
+		<integer>9</integer>
+	</array>
+	<key>LinkNames</key>
+	<array>
+		<string>Glenys Gustin</string>
+		<string>Thomas Albrecht</string>
+		<string>Robert Bennett</string>
+		<string>Madelyn Azar</string>
+		<string>Joseph Bliss</string>
+		<string>Susan Bond</string>
+        <string>Linda Durkin</string>
+		<string>Stacey Everly</string>
+		<string>Anthony DeVice</string>
+	</array>
+	<key>LinkSubtitles</key>
+	<array>
+		<string>Associate Professor</string>
+		<string>Adjunct Instructor</string>
+		<string>Professor</string>
+		<string>Assistant Professor</string>
+		<string>Adjunct Instructor</string>
+		<string>Administrator</string>
+        <string>Associate Professor</string>
+		<string>Adjunct Instructor</string>
+		<string>Adjunct Instructor</string>
+	</array>
+	<key>LinkUrl</key>
+	<array>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/glenys-gustin</string>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/thomas-albrecht</string>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/robert-bennett</string>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/madelyn-azar</string>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/joseph-bliss</string>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/susan-bond</string>
+        <string>http://www.dccc.edu/about-us/meet-our-faculty/linda-durkin</string>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/stacy-everly</string>
+		<string>http://www.dccc.edu/about-us/meet-our-faculty/anthony-device</string>
+	</array>
+	<key>ImageIcons</key>
+	<array>
+		<string>Artificial_30.png</string>
+		<string>Artificial_30.png</string>
+		<string>Artificial_30.png</string>
+		<string>Artificial_30.png</string>
+		<string>Artificial_30.png</string>
+		<string>Artificial_30.png</string>
+        <string>Artificial_30.png</string>
+		<string>Artificial_30.png</string>
+		<string>Artificial_30.png</string>
+	</array>
+</dict>
+</plist>
